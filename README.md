@@ -45,7 +45,7 @@ Suggested areas for environmental action
 The aim of this dashboard is to assist users in understanding air quality dynamics in a visual format, encourage awareness of pollution levels, and provide tools for analysis and reporting.
 
 Instructions to Use:
-1. Open the `power bi project.pbix` file using Power BI Desktop.
+1. Open the power bi file using Power BI Desktop.
 2. Use the slicers to filter data by date or city.
 3. Hover over visuals to see detailed insights.
 4. Customize or extend the dashboard with your own data source if needed.
